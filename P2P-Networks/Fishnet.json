@@ -1,0 +1,28 @@
+{
+    "type": "P2P Network",
+    "name": "Fishnet",
+    "config": "{\n    \"codeName\": \"Fishnet\"\n}",
+    "project": "Network",
+    "id": "a499578b-e64a-4a0b-b8be-f5b885b5202b",
+    "savedPayload": {
+        "position": {
+            "x": 25602.356993272082,
+            "y": 32398.91877861529
+        },
+        "targetPosition": {
+            "x": 25602.356993272082,
+            "y": 32398.91877861529
+        },
+        "floatingObject": {
+            "isPinned": false,
+            "isFrozen": false,
+            "isCollapsed": true,
+            "angleToParent": 1,
+            "distanceToParent": 3,
+            "arrangementStyle": 0
+        },
+        "uiObject": {
+            "isRunning": false
+        }
+    }
+}
