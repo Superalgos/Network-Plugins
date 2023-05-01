@@ -1,0 +1,1261 @@
+{
+    "type": "Workspace",
+    "name": "Network Skeleton",
+    "config": "{\n    \"docsLanguage\": \"EN\",\n    \"contributionsBranch\": \"develop\"\n}",
+    "rootNodes": [
+        {
+            "type": "Plugins",
+            "name": "New Plugins",
+            "project": "Community-Plugins",
+            "pluginProjects": [
+                {
+                    "type": "Plugin Project",
+                    "name": "Foundations",
+                    "config": "{ \n  \"codeName\": \"Foundations\"\n}",
+                    "project": "Community-Plugins",
+                    "pluginTutorials": {
+                        "type": "Plugin Tutorials",
+                        "name": "New Plugin Tutorials",
+                        "project": "Community-Plugins",
+                        "pluginFiles": [],
+                        "id": "c54ecdcc-8cbb-492a-a433-4738b6abf452",
+                        "savedPayload": {
+                            "position": {
+                                "x": 37920.267155198395,
+                                "y": 10691.229519129567
+                            },
+                            "targetPosition": {
+                                "x": 37775.378281255034,
+                                "y": 10730.052375894946
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 3,
+                                "distanceToParent": 1,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "pluginApiMaps": {
+                        "type": "Plugin API Maps",
+                        "name": "New Plugin API Maps",
+                        "project": "Community-Plugins",
+                        "pluginFiles": [],
+                        "id": "a17d116f-65a9-460b-98fe-bf072c8fe41c",
+                        "savedPayload": {
+                            "position": {
+                                "x": 37920.267155198395,
+                                "y": 10768.875232660324
+                            },
+                            "targetPosition": {
+                                "x": 37775.378281255034,
+                                "y": 10730.052375894946
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 3,
+                                "distanceToParent": 1,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "c4e402d7-5228-408c-9d67-379d6ef40bae",
+                    "savedPayload": {
+                        "position": {
+                            "x": 37475.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": true,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Plugin Project",
+                    "name": "Algorithmic-Trading",
+                    "config": "{\"codeName\":\"Algorithmic-Trading\"}",
+                    "project": "Community-Plugins",
+                    "pluginTradingMines": {
+                        "type": "Plugin Trading Mines",
+                        "name": "New Plugin Trading Mines",
+                        "project": "Community-Plugins",
+                        "pluginFiles": [],
+                        "id": "f6d5f4df-e146-40f8-ae02-b128794e5104",
+                        "savedPayload": {
+                            "position": {
+                                "x": 38005.420863932086,
+                                "y": 11036.035941870097
+                            },
+                            "targetPosition": {
+                                "x": 37706.65189664696,
+                                "y": 11008.886279121207
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 3,
+                                "distanceToParent": 2,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "pluginTradingSystems": {
+                        "type": "Plugin Trading Systems",
+                        "name": "New Plugin Trading Systems",
+                        "project": "Community-Plugins",
+                        "pluginFiles": [],
+                        "id": "9595b8bd-fb0f-4039-883c-95e33e19b9e6",
+                        "savedPayload": {
+                            "position": {
+                                "x": 37972.28870434292,
+                                "y": 11148.303230734336
+                            },
+                            "targetPosition": {
+                                "x": 37706.65189664696,
+                                "y": 11008.886279121207
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 3,
+                                "distanceToParent": 2,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "pluginTradingEngines": {
+                        "type": "Plugin Trading Engines",
+                        "name": "New Plugin Trading Engines",
+                        "project": "Community-Plugins",
+                        "pluginFiles": [],
+                        "id": "a5293a3f-f83a-46bd-85b8-e9b9617e31d4",
+                        "savedPayload": {
+                            "position": {
+                                "x": 37898.715748785704,
+                                "y": 11239.34555253329
+                            },
+                            "targetPosition": {
+                                "x": 37706.65189664696,
+                                "y": 11008.886279121207
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 3,
+                                "distanceToParent": 2,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "4e0346c6-6cc9-46c6-b24f-58fd72f693b1",
+                    "savedPayload": {
+                        "position": {
+                            "x": 37441.015088951,
+                            "y": 10869.469327508077
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": true,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Plugin Project",
+                    "name": "Machine-Learning",
+                    "config": "{\"codeName\":\"Machine-Learning\"}",
+                    "project": "Community-Plugins",
+                    "pluginLearningMines": {
+                        "type": "Plugin Learning Mines",
+                        "name": "New Plugin Learning Mines",
+                        "project": "Community-Plugins",
+                        "pluginFiles": [],
+                        "id": "ef537440-052e-4313-a876-5eb2426d1f67",
+                        "savedPayload": {
+                            "position": {
+                                "x": 37493.34069131645,
+                                "y": 11003.985791335128
+                            },
+                            "targetPosition": {
+                                "x": 37345.79770527438,
+                                "y": 10976.947535663043
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 2,
+                                "distanceToParent": 2,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "pluginLearningSystems": {
+                        "type": "Plugin Learning Systems",
+                        "name": "New Plugin Learning Systems",
+                        "project": "Community-Plugins",
+                        "pluginFiles": [],
+                        "id": "c6eceec0-b648-43c6-b8b7-478efd9d05c9",
+                        "savedPayload": {
+                            "position": {
+                                "x": 37431.007417284054,
+                                "y": 11100.395115547091
+                            },
+                            "targetPosition": {
+                                "x": 37345.79770527438,
+                                "y": 10976.947535663043
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 3,
+                                "distanceToParent": 2,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "pluginLearningEngines": {
+                        "type": "Plugin Learning Engines",
+                        "name": "New Plugin Learning Engines",
+                        "project": "Community-Plugins",
+                        "pluginFiles": [],
+                        "id": "d9464057-45a0-47ea-9957-c309d8e1c110",
+                        "savedPayload": {
+                            "position": {
+                                "x": 37318.759449602294,
+                                "y": 11124.490521705115
+                            },
+                            "targetPosition": {
+                                "x": 37345.79770527438,
+                                "y": 10976.947535663043
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 2,
+                                "distanceToParent": 2,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "f7c5041d-1b63-4f5a-94f0-d848e131f5aa",
+                    "savedPayload": {
+                        "position": {
+                            "x": 37345.79770527438,
+                            "y": 10976.947535663043
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": true,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Plugin Project",
+                    "name": "Visual-Scripting",
+                    "config": "{\"codeName\":\"Visual-Scripting\"}",
+                    "project": "Community-Plugins",
+                    "id": "e3a605d5-9565-4b65-9264-a4690acf12c1",
+                    "savedPayload": {
+                        "position": {
+                            "x": 37211.53928533163,
+                            "y": 11027.865038124362
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Plugin Project",
+                    "name": "Data-Mining",
+                    "config": "{\"codeName\":\"Data-Mining\"}",
+                    "project": "Community-Plugins",
+                    "pluginDataMines": {
+                        "type": "Plugin Data Mines",
+                        "name": "New Plugin Data Mines",
+                        "project": "Community-Plugins",
+                        "pluginFiles": [],
+                        "id": "9c3aa82a-b852-4517-9f84-ea31807cdf90",
+                        "savedPayload": {
+                            "position": {
+                                "x": 37015.806082085895,
+                                "y": 11150.809685103382
+                            },
+                            "targetPosition": {
+                                "x": 37068.99681514227,
+                                "y": 11010.55724870057
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 2,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "5750ba78-985b-4710-a187-e1a8057433a4",
+                    "savedPayload": {
+                        "position": {
+                            "x": 37068.99681514227,
+                            "y": 11010.55724870057
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": true,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Plugin Project",
+                    "name": "Community-Plugins",
+                    "config": "{\"codeName\":\"Community-Plugins\"}",
+                    "project": "Community-Plugins",
+                    "id": "3cd3dca7-6f94-48ed-aac3-ecc0110acb26",
+                    "savedPayload": {
+                        "position": {
+                            "x": 36950.825056803704,
+                            "y": 10928.989173367185
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Plugin Project",
+                    "name": "Ethereum",
+                    "config": "{\"codeName\":\"Ethereum\"}",
+                    "project": "Community-Plugins",
+                    "id": "e5fad92c-5271-4f9a-adc9-ff3eb53ac8f5",
+                    "savedPayload": {
+                        "position": {
+                            "x": 36884.09573602722,
+                            "y": 10801.847075181213
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Plugin Project",
+                    "name": "TensorFlow",
+                    "config": "{\"codeName\":\"TensorFlow\"}",
+                    "project": "Community-Plugins",
+                    "id": "f439afaf-0a8f-46a9-b4d7-16ec795c665c",
+                    "savedPayload": {
+                        "position": {
+                            "x": 36884.09573602722,
+                            "y": 10658.257676608679
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Plugin Project",
+                    "name": "Education",
+                    "config": "{\"codeName\":\"Education\"}",
+                    "project": "Community-Plugins",
+                    "id": "21aaff75-ac16-4ca9-93fb-4b24764db19d",
+                    "savedPayload": {
+                        "position": {
+                            "x": 36950.825056803704,
+                            "y": 10531.115578422707
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Plugin Project",
+                    "name": "Governance",
+                    "config": "{\"codeName\":\"Governance\"}",
+                    "project": "Community-Plugins",
+                    "id": "0c16e8eb-a2ca-415c-aa22-bd90cc367db5",
+                    "savedPayload": {
+                        "position": {
+                            "x": 37068.99681514227,
+                            "y": 10449.547503089321
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Plugin Project",
+                    "name": "Network",
+                    "config": "{\"codeName\":\"Network\"}",
+                    "project": "Community-Plugins",
+                    "pluginP2PNetworks": {
+                        "type": "Plugin P2P Networks",
+                        "name": "New Plugin P2P Networks",
+                        "project": "Community-Plugins",
+                        "pluginFiles": [],
+                        "id": "676d2519-5694-40d1-8e50-468e5a6be2df",
+                        "savedPayload": {
+                            "position": {
+                                "x": 37229.61978736993,
+                                "y": 10283.333382550822
+                            },
+                            "targetPosition": {
+                                "x": 37211.53928533163,
+                                "y": 10432.239713665529
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 2,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "98bdb407-1a1a-4746-bb5d-8a8a4ed84f90",
+                    "savedPayload": {
+                        "position": {
+                            "x": 37211.53928533163,
+                            "y": 10432.239713665529
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Plugin Project",
+                    "name": "Social-Trading",
+                    "config": "{\"codeName\":\"Social-Trading\"}",
+                    "project": "Community-Plugins",
+                    "id": "bdc3bb8d-732f-4dbb-83be-abfa294c6a87",
+                    "savedPayload": {
+                        "position": {
+                            "x": 37345.79770527438,
+                            "y": 10483.157216126849
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Plugin Project",
+                    "name": "Social-Bots",
+                    "config": "{\"codeName\":\"Social-Bots\"}",
+                    "project": "Community-Plugins",
+                    "id": "fb909610-78b1-4d6a-b345-14ae1800b9e6",
+                    "savedPayload": {
+                        "position": {
+                            "x": 37441.015088951,
+                            "y": 10590.635424281816
+                        },
+                        "targetPosition": {
+                            "x": 37175.378281255034,
+                            "y": 10730.052375894946
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 2,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                }
+            ],
+            "id": "bfb0b514-3b9f-4e9a-85ca-d0ca714b09f6",
+            "savedPayload": {
+                "position": {
+                    "x": 37175.378281255034,
+                    "y": 10730.052375894946
+                },
+                "targetPosition": {
+                    "x": 37175.378281255034,
+                    "y": 10730.052375894946
+                },
+                "floatingObject": {
+                    "isPinned": true,
+                    "isFrozen": false,
+                    "isCollapsed": false,
+                    "angleToParent": 1,
+                    "distanceToParent": 5,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        {
+            "type": "Design Space",
+            "name": "My Design Space",
+            "project": "Foundations",
+            "spaceStyle": {
+                "type": "Space Style",
+                "name": "My Space Style",
+                "config": "    {\n        \"backgroundColor\": \"UI_COLOR.BLACK\",\n        \"node\": {\n            \"fontSize\": 16,\n            \"imageSize\":  60,\n            \"type\": {\n                \"fontColor\": \"UI_COLOR.WHITE\"\n            },\n            \"name\": {\n                \"fontColor\": \"UI_COLOR.WHITE\"\n            },\n            \"menuItem\": {\n                \"backgroundColor\": \"UI_COLOR.BLACK\",\n                \"fontColor\": \"UI_COLOR.WHITE\",\n                \"fontSize\": 14,\n                \"imageSize\": 14\n            }\n        }\n    }",
+                "project": "Foundations",
+                "id": "fad0e429-f7a7-4b62-a2a5-2ead29b8f695",
+                "savedPayload": {
+                    "position": {
+                        "x": 25236.875,
+                        "y": 8701.347826086958
+                    },
+                    "targetPosition": {
+                        "x": 24936.875,
+                        "y": 8701.347826086958
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "spaceSettings": {
+                "type": "Space Settings",
+                "name": "New Space Settings",
+                "config": "{\n    \"node\": {\n        \"distancePercentage\": 60,\n        \"radiusPercentage\": 85,\n        \"massPercentage\": 100,\n        \"animationSteps\": 2, \n        \"menuItem\": {\n            \"widthPercentage\": 100,\n            \"heightPercentage\": 60,\n            \"radiusPercentage\": 90\n        }\n    },\n    \"physics\": false\n}",
+                "project": "Foundations",
+                "id": "05c9d6d5-24c4-4eec-9aca-9668d6486fdd",
+                "savedPayload": {
+                    "position": {
+                        "x": 24636.875,
+                        "y": 8701.347826086958
+                    },
+                    "targetPosition": {
+                        "x": 24936.875,
+                        "y": 8701.347826086958
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "id": "f8485ce5-67f3-4476-b9e2-80994e49c318",
+            "savedPayload": {
+                "position": {
+                    "x": 24940.875,
+                    "y": 10717.347826086958
+                },
+                "targetPosition": {
+                    "x": 24940.875,
+                    "y": 10717.347826086958
+                },
+                "floatingObject": {
+                    "isPinned": true,
+                    "isFrozen": false,
+                    "isCollapsed": true,
+                    "angleToParent": 1,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                },
+                "frame": {
+                    "position": {
+                        "x": 255,
+                        "y": 588.3125
+                    }
+                }
+            }
+        },
+        {
+            "type": "Foundations Project",
+            "name": "New Foundations Project",
+            "project": "Foundations",
+            "projectDefinition": {
+                "type": "Project Definition",
+                "name": "Foundations",
+                "config": "{ \n  \"codeName\": \"Foundations\"\n}",
+                "project": "Foundations",
+                "id": "a2a04e12-604e-43f8-a986-1b8ca3b043cb",
+                "savedPayload": {
+                    "position": {
+                        "x": 19203,
+                        "y": 10733.5
+                    },
+                    "targetPosition": {
+                        "x": 18903,
+                        "y": 10733.5
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "spaces": {
+                "type": "Spaces",
+                "name": "New Spaces",
+                "project": "Foundations",
+                "id": "4d0ee814-4e48-4688-9cc5-7ee03de5192b",
+                "savedPayload": {
+                    "position": {
+                        "x": 19053,
+                        "y": 10993.307621135331
+                    },
+                    "targetPosition": {
+                        "x": 18903,
+                        "y": 10733.5
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "mines": {
+                "type": "Mines",
+                "name": "New Mines",
+                "project": "Foundations",
+                "id": "b979e3a3-9316-4e5a-831b-c503b4b0e507",
+                "savedPayload": {
+                    "position": {
+                        "x": 18753,
+                        "y": 10993.307621135331
+                    },
+                    "targetPosition": {
+                        "x": 18903,
+                        "y": 10733.5
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "trading": {
+                "type": "Trading",
+                "name": "New Trading",
+                "project": "Foundations",
+                "id": "7c24591e-b252-4be3-8952-e4da0a52f467",
+                "savedPayload": {
+                    "position": {
+                        "x": 18603,
+                        "y": 10733.5
+                    },
+                    "targetPosition": {
+                        "x": 18903,
+                        "y": 10733.5
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "learning": {
+                "type": "Learning",
+                "name": "New Learning",
+                "project": "Foundations",
+                "id": "7a0b6167-5554-497a-b150-8886120539c2",
+                "savedPayload": {
+                    "position": {
+                        "x": 18753,
+                        "y": 10473.692378864669
+                    },
+                    "targetPosition": {
+                        "x": 18903,
+                        "y": 10733.5
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "otherHierarchies": {
+                "type": "Other Hierarchies",
+                "name": "New Other Hierarchies",
+                "project": "Foundations",
+                "id": "0a1ff755-8e0b-4f62-976e-df76c8139c6f",
+                "savedPayload": {
+                    "position": {
+                        "x": 19053,
+                        "y": 10473.692378864669
+                    },
+                    "targetPosition": {
+                        "x": 18903,
+                        "y": 10733.5
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "id": "cf9f8b3b-77c6-43c6-b01f-95cf366a91f6",
+            "savedPayload": {
+                "position": {
+                    "x": 5000,
+                    "y": 10000
+                },
+                "targetPosition": {
+                    "x": 5000,
+                    "y": 10000
+                },
+                "floatingObject": {
+                    "isPinned": true,
+                    "isFrozen": false,
+                    "isCollapsed": true,
+                    "angleToParent": 1,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        {
+            "type": "APIs",
+            "name": "New APIs",
+            "project": "Foundations",
+            "githubAPI": {
+                "type": "Github API",
+                "name": "New Github API",
+                "config": "{\n    \"username\": \"\",\n    \"token\": \"\"\n}",
+                "project": "Foundations",
+                "id": "3f22c942-17c4-47c3-b524-825b9899b2db",
+                "savedPayload": {
+                    "position": {
+                        "x": 31349.208333333332,
+                        "y": 10755.819458631257
+                    },
+                    "targetPosition": {
+                        "x": 31049.208333333332,
+                        "y": 10755.819458631257
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "id": "23021bb7-9997-4fe6-8199-71ebf70aef76",
+            "savedPayload": {
+                "position": {
+                    "x": 31049.208333333332,
+                    "y": 10755.819458631257
+                },
+                "targetPosition": {
+                    "x": 31049.208333333332,
+                    "y": 10755.819458631257
+                },
+                "floatingObject": {
+                    "isPinned": true,
+                    "isFrozen": false,
+                    "isCollapsed": true,
+                    "angleToParent": 1,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        {
+            "type": "Algorithmic-Trading Project",
+            "name": "New Algorithmic-Trading Project",
+            "project": "Algorithmic-Trading",
+            "projectDefinition": {
+                "type": "Project Definition",
+                "name": "Algorithmic-Trading",
+                "config": "{ \n  \"codeName\": \"Algorithmic-Trading\"\n}",
+                "project": "Foundations",
+                "id": "529dd56f-a207-4532-8a13-712d6ef39ff4",
+                "savedPayload": {
+                    "position": {
+                        "x": 24629,
+                        "y": 24714
+                    },
+                    "targetPosition": {
+                        "x": 24329,
+                        "y": 24714
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "id": "6615f0ad-0ace-4b98-a373-5710e1976b9b",
+            "savedPayload": {
+                "position": {
+                    "x": 5000,
+                    "y": 17500
+                },
+                "targetPosition": {
+                    "x": 5000,
+                    "y": 17500
+                },
+                "floatingObject": {
+                    "isPinned": true,
+                    "isFrozen": false,
+                    "isCollapsed": true,
+                    "angleToParent": 1,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        {
+            "type": "Data-Mining Project",
+            "name": "New Data-Mining Project",
+            "project": "Data-Mining",
+            "projectDefinition": {
+                "type": "Project Definition",
+                "name": "Data-Mining",
+                "config": "{ \n  \"codeName\": \"Data-Mining\"\n}",
+                "project": "Foundations",
+                "id": "0e90b0e7-0ca4-4b90-ad95-35da44e0d6bc",
+                "savedPayload": {
+                    "position": {
+                        "x": 25188,
+                        "y": 24494
+                    },
+                    "targetPosition": {
+                        "x": 24888,
+                        "y": 24494
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "id": "dfcde943-aec0-4219-89f1-1ad9664c2274",
+            "savedPayload": {
+                "position": {
+                    "x": 5000,
+                    "y": 25000
+                },
+                "targetPosition": {
+                    "x": 5000,
+                    "y": 25000
+                },
+                "floatingObject": {
+                    "isPinned": true,
+                    "isFrozen": false,
+                    "isCollapsed": true,
+                    "angleToParent": 1,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        {
+            "type": "Workspaces Project",
+            "name": "New Workspaces Project",
+            "project": "Workspaces",
+            "id": "680001f8-64a8-453e-ae6f-9c415d9d10b4",
+            "savedPayload": {
+                "position": {
+                    "x": 5000,
+                    "y": 40000
+                },
+                "targetPosition": {
+                    "x": 5000,
+                    "y": 40000
+                },
+                "floatingObject": {
+                    "isPinned": true,
+                    "isFrozen": false,
+                    "isCollapsed": true,
+                    "angleToParent": 1,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        {
+            "type": "Network Project",
+            "name": "New Network Project",
+            "project": "Network",
+            "projectDefinition": {
+                "type": "Project Definition",
+                "name": "New Project Definition",
+                "config": "{ \n  \"codeName\": \"\"\n}",
+                "project": "Foundations",
+                "id": "eeca31ed-340f-436e-9110-487771f2ff0e",
+                "savedPayload": {
+                    "position": {
+                        "x": 25274.5,
+                        "y": 27812
+                    },
+                    "targetPosition": {
+                        "x": 24974.5,
+                        "y": 27812
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "id": "fa2205d7-7835-48ef-a680-d88801a73e39",
+            "savedPayload": {
+                "position": {
+                    "x": 24956.5,
+                    "y": 29364
+                },
+                "targetPosition": {
+                    "x": 24956.5,
+                    "y": 29364
+                },
+                "floatingObject": {
+                    "isPinned": true,
+                    "isFrozen": false,
+                    "isCollapsed": true,
+                    "angleToParent": 1,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        {
+            "type": "Contributions Project",
+            "name": "New Contributions Project",
+            "project": "Contributions",
+            "projectDefinition": {
+                "type": "Project Definition",
+                "name": "New Project Definition",
+                "config": "{ \n  \"codeName\": \"\"\n}",
+                "project": "Foundations",
+                "id": "d557bff4-0148-41c9-885f-3ee93103b116",
+                "savedPayload": {
+                    "position": {
+                        "x": 24894,
+                        "y": 24646
+                    },
+                    "targetPosition": {
+                        "x": 24594,
+                        "y": 24646
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            "id": "71bb395e-4a83-4eb9-8aaf-cb15c0255855",
+            "savedPayload": {
+                "position": {
+                    "x": 5001,
+                    "y": 32607
+                },
+                "targetPosition": {
+                    "x": 5001,
+                    "y": 32607
+                },
+                "floatingObject": {
+                    "isPinned": true,
+                    "isFrozen": false,
+                    "isCollapsed": true,
+                    "angleToParent": 1,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        }
+    ]
+}
